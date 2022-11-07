@@ -21,19 +21,19 @@ dependencies:
 
 ## Usage
 
-![img.png](img.png){:target="_blank"}
+![img.png](img.png)
 
 ## The OUTPUT MODEL Layout
-![img_1.png](img_1.png){:target="_blank"}
+![img_1.png](img_1.png)
 
 ## The OUTPUT MODEL Code
-![img_2.png](img_2.png){:target="_blank"}
+![img_2.png](img_2.png)
 
 
 ## Download
 
 Web version:
 
-[https://a7mdragab.github.io/flutter_super_model_builder](Flutter_Super_Model_Builder_Web){:target="_blank"}
+[https://a7mdragab.github.io/flutter_super_model_builder](Flutter_Super_Model_Builder_Web)
 
 Any features needed will be added. Just tell me.
