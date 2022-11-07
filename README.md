@@ -34,6 +34,6 @@ dependencies:
 
 Web version:
 
-[https://a7mdragab.github.io/flutter_super_model_builder](Flutter_Super_Model_Builder_Web)
+[Flutter Super Model Builder Web version](https://a7mdragab.github.io/flutter_super_model_builder)
 
 Any features needed will be added. Just tell me.
