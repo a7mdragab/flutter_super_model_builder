@@ -2,10 +2,15 @@
 
 Flutter super model builder is an easy tool for creating flutter models with all necessary functions and utilities to make development process easier and maintainable.
 
-## Web version:
 
-<a href="https://a7mdragab.github.io/flutter_super_model_builder" target="_blank">Flutter Super Model Builder Web version</a>
+##### Web version: :hotel:
 
+> <a href="https://a7mdragab.github.io/flutter_super_model_builder" target="_blank">Flutter Super Model Builder Web version</a>
+
+
+##### Windows version: :desktop_computer:
+
+> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.0.0.msix</a>
 
 ## Getting started
 
