@@ -3,6 +3,26 @@
 Flutter super model builder is an easy tool for creating flutter models with all necessary functions and utilities to make development process easier and maintainable.
 
 
+# Features:
+* Class Fields
+* Fields Declaration
+* Model Fields
+* NewInstance
+* DefaultConstructor
+* NamedConstructor
+* FromMap
+* FromMapList
+* FromJson
+* ToMap
+* ToJson
+* ToString
+* CopyWith
+* UpdateWith
+* UpdateFrom
+* UpdateFromMap
+* Equality
+
+
 ##### Web version: :hotel:
 
 > <a href="https://a7mdragab.github.io/flutter_super_model_builder" target="_blank">Flutter Super Model Builder Web version</a>
