@@ -20,7 +20,7 @@ Add to your project yaml dependencies if you need date only fields:
 https://pub.dev/packages/date_only_field
 ```dart
 dependencies:
-  date_only_field: ^0.0.7
+  date_only_field: ^0.0.8
 ```
 
 ## Usage
@@ -43,6 +43,7 @@ dependencies:
 
 ##### Windows version: :desktop_computer:
 
-> Soon.
+> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.0.0.msix</a>
+
 
 `Any features needed will be added. Just tell me.`
