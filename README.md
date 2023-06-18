@@ -55,7 +55,7 @@ dependencies:
 ![img.png](img.png)
 
 ## The Json Fields MODEL Layout
-![img.png](img.png)
+![img_3.png](img.png)
 
 ## The OUTPUT MODEL Layout
 ![img_1.png](img_1.png)
