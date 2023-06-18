@@ -51,6 +51,10 @@ dependencies:
 
 ## Usage
 
+## The Normal Fields MODEL Layout
+![img.png](img.png)
+
+## The Json Fields MODEL Layout
 ![img.png](img.png)
 
 ## The OUTPUT MODEL Layout
