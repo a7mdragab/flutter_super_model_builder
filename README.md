@@ -2,6 +2,8 @@
 
 Flutter super model builder is an easy tool for creating flutter models with all necessary functions and utilities to make development process easier and maintainable.
 
+# New Changes:
+* Json model generators
 
 # Features:
 * Class Fields
@@ -30,7 +32,7 @@ Flutter super model builder is an easy tool for creating flutter models with all
 
 ##### Windows version: :desktop_computer:
 
-> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.0.0.msix</a>
+> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.1.0.0.msix</a>
 
 ## Getting started
 
@@ -38,14 +40,14 @@ Flutter super model builder is an easy tool for creating flutter models with all
 Add to your project yaml dependencies:
 ```dart
 dependencies:
-  intl: ^0.17.0
+  intl: ^0.18.1
 ```
 Add to your project yaml dependencies if you need date only fields:
 
 https://pub.dev/packages/date_only_field
 ```dart
 dependencies:
-  date_only_field: ^0.0.8
+  date_only_field: ^0.0.13
 ```
 
 ## Usage
@@ -68,7 +70,7 @@ dependencies:
 
 ##### Windows version: :desktop_computer:
 
-> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.0.0.msix</a>
+> <a href="https://github.com/a7mdragab/flutter_super_model_builder/releases/download/Main/Flutter_super_model_builder_v1.1.0.0.msix" target="_blank">Flutter_super_model_builder_v1.1.0.0.msix</a>
 
 
 `Any features needed will be added. Just tell me.`
